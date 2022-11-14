@@ -1,0 +1,5 @@
+
+db.sqlite3
+temporalMap/__pycache__/
+temporalMapApp/__pycache__/
+temporalMapApp/migrations/__pycache__/
